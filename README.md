@@ -1,4 +1,4 @@
-# TrueShare (Transparent IPO Token Allocation dApp)
+# TrueShare - Transparent IPO Token Allocation dApp
 
 A Polkadot-native application that ensures fair and verifiable token allocations using on-chain randomness, open algorithms, and governance.
 
@@ -23,7 +23,7 @@ npm install
 npm run dev
 ```
 
-###Offchain
+### Offchain
 ```bash
 cd offchain
 npm install
